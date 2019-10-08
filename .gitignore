@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+
 # Distribution / packaging
 .Python
 build/
